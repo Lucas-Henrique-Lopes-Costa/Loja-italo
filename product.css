@@ -4,7 +4,7 @@
 }
 
 .principal-page {
-  background-image: url('/assets/Fundo6.jpg');
+  background-image: url('assets/Fundo6.jpg');
   background-size: 320px; 
   background-repeat: no-repeat;
   background-position: center;
@@ -33,28 +33,28 @@
 }
 
 .iniciante {
-  background-image: url('/assets/iniciante.jpg');
+  background-image: url('assets/iniciante.jpg');
   background-size: 550px;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .profissional {
-  background-image: url('/assets/profissional.jpg');
+  background-image: url('assets/profissional.jpg');
   background-size: 573px;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .diferença {
-  background-image: url('/assets/diferen%C3%A7a.jpg');
+  background-image: url('assets/diferen%C3%A7a.jpg');
   background-size: 535px;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .elite {
-  background-image: url('/assets/elite.jpg');
+  background-image: url('assets/elite.jpg');
   background-size: 600px;
   background-repeat: no-repeat;
   background-position: center;
