@@ -4,7 +4,7 @@
 }
 
 .principal-page {
-  background-image: url('../assets/Fundo6.jpg');
+  background-image: url('https://github.com/Lucas-Henrique-Lopes-Costa/Loja-italo/blob/9d4a2d40b2dfa46e8ab306236b6c966a43447735/assets/Fundo6.jpg');
   background-size: 320px; 
   background-repeat: no-repeat;
   background-position: center;
@@ -33,28 +33,28 @@
 }
 
 .iniciante {
-  background-image: url('https://helpx.adobe.com/content/dam/help/pt/photoshop/using/color-modes/_jcr_content/main-pars/image/color-mode_1046x620.jpg');
+  background-image: url('https://github.com/Lucas-Henrique-Lopes-Costa/Loja-italo/blob/main/assets/iniciante.jpg');
   background-size: 550px;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .profissional {
-  background-image: url('https://lh3.googleusercontent.com/proxy/520YGvtOXjmJ_4PxZXBub1ghOH_HtIMvCKvGPrsnn1zWDZZzfPdYCkz3rRcnCV9EIam5gVykjZh_gzTdjKQD0WHxhxb6C5msWtAhe1eKu4VUi_GVYcNrEQK_Z-1oWk6kxpC_6YFS8dASagkt');
+  background-image: url('https://github.com/Lucas-Henrique-Lopes-Costa/Loja-italo/blob/main/assets/profissional.jpg');
   background-size: 573px;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .diferença {
-  background-image: url('https://lh3.googleusercontent.com/proxy/SQTa8VQOq_IRsY42QETej4jn7YgMlHEE2cXloYCXZOwBBJ-WXOpBhONVXfKIzwIFZxSYQPGeMF-MoOKoiKNBRPGOONPhbbYjk_NZxb5LtjqF7ykE5Le-DA');
+  background-image: url('https://github.com/Lucas-Henrique-Lopes-Costa/Loja-italo/blob/main/assets/diferen%C3%A7a.jpg');
   background-size: 698px;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .elite {
-  background-image: url('https://i.ytimg.com/vi/RuOHXppAHaY/maxresdefault.jpg');
+  background-image: url('https://github.com/Lucas-Henrique-Lopes-Costa/Loja-italo/blob/main/assets/elite.jpg');
   background-size: 600px;
   background-repeat: no-repeat;
   background-position: center;
